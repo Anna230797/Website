@@ -1,0 +1,16 @@
+.reviews{
+    background-color: #018ABE;
+    width: 636px;
+    height: 350px;
+    margin-top: 100px;
+}
+.reviews_Title{
+    font-size: 20px;
+    padding-top: 50px;
+}
+.reviewsText{
+    font-size: 14px;
+    width: 516px;
+    height: 196px;
+    padding-top: 20px;
+}

@@ -1,0 +1,14 @@
+
+
+.location{
+    font-size: 14px;
+    color: #ffffff;
+    padding-left: 45px;
+}
+.imgAdd{
+    display: flex;
+    padding-top: 21px;
+}
+.imgAdd img{
+    padding-right: 23px;
+}

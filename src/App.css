@@ -1,0 +1,30 @@
+
+@import url("https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;700&family=Noto+Serif:wght@700&family=Open+Sans&family=Roboto&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  width: 1296px;
+  margin: 0 auto;
+}
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  background-color: #162831;
+  width: 1920px;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+li{
+  display: inline-block;
+  text-decoration: none;
+}

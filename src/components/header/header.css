@@ -1,0 +1,27 @@
+a {
+  color: #ffffff;
+}
+.header{
+    font-family: 'El Messiri', sans-serif;
+}
+.header_MenuBox {
+  display: flex;
+  justify-content: space-between;
+}
+.header_logo {
+  margin-top: 30px;
+}
+
+.header_menu {
+  display: flex;
+  font-size: 14px;
+  margin-top: 51px;
+}
+.menu_btn {
+  margin-top: 43px;
+}
+.menu_btn button {
+  background-color: #018abe;
+  padding: 9px 15px;
+  border-radius: 3px;
+}

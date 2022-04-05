@@ -1,0 +1,25 @@
+.img {
+  background-image: url(./images/img.png);
+  width: 832px;
+  height: 540px;
+  
+}
+.boxImg{
+    display: flex;
+}
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    /* text-align: center; */
+}
+.services{
+    margin-top: 100px;
+    font-family: 'El Messiri', sans-serif;
+}
+.img p{
+    color: #ffffff;
+    font-size: 24px;
+    padding-top: 456px;
+    padding-left: 50px;
+}

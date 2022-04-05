@@ -1,0 +1,28 @@
+.contacts{
+    margin-top: 150px;
+    display: flex;
+}
+.contactsLocation{
+    background-color: #018ABE;
+    width: 392px;
+    height: 290px;
+    border-radius: 10px;
+    margin-bottom: 24px;
+    margin-left: 48px;
+}
+.locationName{
+    font-size: 24px;
+    color: #ffffff;
+    padding-left: 45px;
+    padding-top: 35px;
+}
+.locationBtn{
+    padding-left: 45px;
+    padding-top: 30px;
+}
+.locationBtn a{
+    color: #018ABE;
+}
+.locationBtn button{
+padding: 9px 15px;
+}

@@ -1,0 +1,8 @@
+.footerText {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+    font-size: 14px;
+}

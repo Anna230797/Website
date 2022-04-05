@@ -1,0 +1,13 @@
+.new{
+    background-image: url('../images/images.png');
+    width: 416px;
+    height: 258px;
+    margin-bottom: 24px;
+    margin-top: 60px;
+}
+.new p{
+    font-size: 31px;
+    color: #ffffff;
+    margin-top: 199px;
+    margin-left: 35px;
+}

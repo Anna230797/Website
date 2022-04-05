@@ -1,0 +1,17 @@
+.newsItem{
+    background-color: #162831;
+  width: 1920px;
+  font-family: 'El Messiri', sans-serif;
+}
+.newsItemTitle{
+  color: #ffffff;
+  text-align: center;
+  font-size: 42px;
+  margin-top: 60px;
+}
+.itemNews{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+ margin-bottom: 150px;
+}

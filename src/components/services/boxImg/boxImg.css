@@ -1,0 +1,12 @@
+.BoxImg{
+    background-image: url(../images/img1.png);
+    width: 416px;
+    height: 256px;
+    margin: 0 12px;
+}
+.BoxImg p{
+    color: #ffffff;
+    font-size: 24px;
+    padding-top: 180px;
+    padding-left: 50px;
+}
